@@ -1,7 +1,7 @@
-<h1 align="center">✨ <span style="color:#FFCC00;">Mystic Helmets Pack</span> ✨</h1>
+<h1 align="center">✨ Mystic Helmets Pack</span> ✨</h1>
 
 <p align="center">
- <!-- <img src="" alt="Mystic Helmets Banner" width="600"/> -->
+ <img src="https://github.com/ImJustNozell/MysticHelmets/blob/main/assest/banner.png" alt="Mystic Helmets Banner" width="600"/>
 
 </p>
 
