@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Mystic Helmets Pack",
+    "name": "MysticHelmets",
+    "uuid": "931f4602-a5fc-45a0-9197-992f56d92f4a",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 17, 0]
+  },
+  "modules": [
+    {
+      "description": "Mystic Helmets Pack",
+      "type": "resources",
+      "uuid": "e00b29b2-cf4e-4e38-9778-c7cabf9cfe64",
+      "version": [1, 0, 0]
+    }
+  ]
+}

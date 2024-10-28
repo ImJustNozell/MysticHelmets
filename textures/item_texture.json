@@ -1,0 +1,21 @@
+{
+  "resource_pack_name": "Mystic Helmets Pack",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "parcanite_helmet": {
+      "textures": ["textures/items/parcanite_helmet"]
+    },
+    "aquamarine_helmet": {
+      "textures": "textures/items/aquamarine_helmet"
+    },
+    "peridot_helmet": {
+      "textures": "textures/items/peridot_helmet"
+    },
+    "opal_helmet": {
+      "textures": "textures/items/opal_helmet"
+    },
+    "onyx_helmet": {
+      "textures": "textures/items/onyx_helmet"
+    }
+  }
+}
