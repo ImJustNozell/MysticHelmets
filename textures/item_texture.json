@@ -1,9 +1,9 @@
 {
-  "resource_pack_name": "Mystic Helmets Pack",
+  "resource_pack_name": "MysticHelmets",
   "texture_name": "atlas.items",
   "texture_data": {
     "parcanite_helmet": {
-      "textures": ["textures/items/parcanite_helmet"]
+      "textures": "textures/items/parcanite_helmet"
     },
     "aquamarine_helmet": {
       "textures": "textures/items/aquamarine_helmet"

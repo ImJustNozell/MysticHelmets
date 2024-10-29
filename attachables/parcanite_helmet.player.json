@@ -2,9 +2,9 @@
   "format_version": "1.10.0",
   "minecraft:attachable": {
     "description": {
-      "identifier": "heavy:parcanite_helmet.player",
+      "identifier": "mh:parcanite_helmet.player",
       "item": {
-        "heavy:parcanite_helmet": "query.owner_identifier == 'minecraft:player'"
+        "mh:parcanite_helmet": "query.owner_identifier == 'minecraft:player'"
       },
       "materials": {
         "default": "armor",
